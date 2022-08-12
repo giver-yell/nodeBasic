@@ -1,5 +1,9 @@
 # nodeBasic
 
+## Command
+### nodemon
+`npm run dev`
+
 ## Settings
 ### yarn install
 `npm i yarn`
