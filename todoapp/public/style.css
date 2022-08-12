@@ -93,7 +93,7 @@ textarea {
 }
 
 .form-alert {
-  color: var(--green-dark);
+  color: var(--red-dark);
   letter-spacing: var(--letterSpacing);
   text-transform: capitalize;
 }
