@@ -1,7 +1,7 @@
 # nodeBasic
 
 ## Command
-### nodemon 実行
+- nodemon 実行
 `npm run dev`
 
 ## Settings
