@@ -1,8 +1,9 @@
 # nodeBasic
 
-## Command
-- nodemon 実行
-`npm run dev`
+## connect local env
+- nodemon 実行  
+`npm run dev`  
+`localhost:3000` へ接続
 
 ## Settings
 - yarn install
